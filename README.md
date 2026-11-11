@@ -1,10 +1,16 @@
-# musicplayer
-🎵 An ultra-lightweight music player built for enjoying your personal music collection while keeping your computer’s memory free for everything else.
+## 🎵 How to Use
 
-🎧 Simply import your music files, choose your favourite tracks, and press play.
+### 📂 1. Get your music ready
+Make sure the music files you want to listen to are saved on your computer.
 
-⚡ With guaranteed RAM usage under 90 MB, it’s designed to stay light while you work, study, browse, or game.
+### ➕ 2. Import your music
+Open the player and use the import option to select the music files you want to add.
 
-💻 Whether you’re putting on background music for a busy afternoon or settling down to listen to your favourite album, this player keeps the experience simple and focused on your tracks.
+### 🎧 3. Choose a track
+Select a song from your imported music to start listening.
 
-🎶 Your files, your favourites, your soundtrack—all in a lightweight player made for everyday listening.
+### ▶️ 4. Control playback
+Use the player’s playback controls to play or pause your music.
+
+### ⚡ 5. Enjoy lightweight listening
+Keep your music playing while you work, study, browse, or game—with guaranteed RAM usage under **90 MB**.
